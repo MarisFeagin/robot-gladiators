@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 // set name
 var getPlayerName = function() {
   var name = "";
@@ -218,4 +216,3 @@ var randomNumber = function (min, max) {
 };
 
 startGame()
->>>>>>> highscore
